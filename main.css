@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.catalogo .row div section div img {
+    height: 28vh;
+}
+.catalogo .row div section header h3 {
+    height: 10vh;
+    font-size: 150%;
+}
+.catalogo .row div {
+    display: inline;
+    align-self: center;
+}
+.bunner {
+    padding: 15px;
+    min-height: 33vh;
+}
+.bunner .bunner-inner {
+    display: flex;
+    justify-content: space-between;
+}
+.bunner .bunner-inner div {
+    max-width: 100vw;
+    width: 23%;
+    height: 37vh;
+    max-height: 400px;
+}
+.bunner .bunner-inner div header h3 {
+    font-size: 1.5vw;
+}
+.bunner .bunner-inner div div img {
+    width: 14.669926650366747%;
+    min-width: 100px;
+}
+img {
+    max-height: 150px;
+}
+header {
+    max-height: 100px;
+}
+b {
+    font-size: 150%;
+}
+.bunner .card footer {
+    display: flex;
+    flex-wrap: wrap;
+    max-height: 120px;
+}
+.bunner .card footer button {
+    padding-left: 10px;
+}
+

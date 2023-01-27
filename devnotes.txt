@@ -1,0 +1,1 @@
+div.tab-pane*2>h2+div.container.catalogo>div.row>div.col-lg-4.col-md-6.col-sm-12*3>section.card*3>header.card-header+div.card-body+footer>button.btn.btn-success+b
